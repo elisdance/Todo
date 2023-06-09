@@ -2,6 +2,9 @@
 
 ## Description 
 This app provides a simple todo app for your plans
+
+https://elisdance.github.io/Todo/
+
 ## Technologies & Tools Used:
 
 - Java Script
